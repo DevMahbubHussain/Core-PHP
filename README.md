@@ -1,21 +1,2 @@
-# All About Core-PHP
+# Form Validation Using PHP Trait
 
-# DataTypes 
-
-# Operators
-
-#Flowcontrol
-
-#Arrays
-
-#Strings
-
-#Functions
-
-#Forms
-
-#File Upload 
-
-#Sesssion & Cookies
-
-#DateTime
